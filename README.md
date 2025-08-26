@@ -2,7 +2,7 @@
 ### Olá, eu sou a Manu!
 
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical)
 
