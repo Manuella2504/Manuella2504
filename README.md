@@ -2,6 +2,8 @@
 ### Olá, eu sou a Manu!
 
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical)
