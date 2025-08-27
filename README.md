@@ -40,14 +40,6 @@
 - 🤝 Colaborar com outros desenvolvedores em projetos incríveis
 - 🏆 Participar de hackathons e competições de programação
 
-## 🌈 Projetos em Destaque
-
-<div align="center">
-  
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MANUELLA2504&repo=seu-projeto-1&theme=tokyonight)](https://github.com/MANUELLA2504/seu-projeto-1)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MANUELLA2504&repo=seu-projeto-2&theme=tokyonight)](https://github.com/MANUELLA2504/seu-projeto-2)
-  
-</div>
 
 ## 💬 Vamos nos conectar?
 
